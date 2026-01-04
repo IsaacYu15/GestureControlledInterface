@@ -1,0 +1,14 @@
+{
+	"id": "Mahjong Table",
+	"name": "MahjongTable",
+	"display_name": "Mahjong Table",
+	"author": ["Isaac, Spark"],
+	"description": "Mod for controlling led lights on a mahjong table",
+	"prefix": "mm",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "FF230A",
+	"badge_text_colour": "ABC123",
+	"version": "0.0.1",
+	"dependencies": []
+}
